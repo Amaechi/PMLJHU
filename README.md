@@ -1,1 +1,3 @@
-# PMLJHU
+The quantified self movement use devices such as Jawbone Up, Nike FuelBand, and Fitbit to collect a large amount of data about personal activity in order to improve their health, to find patterns in their behavior, or because they are tech geeks. One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. 
+
+A number of volunteers were asked to perform barbell lifts correctly and incorrectly in 5 different ways (see "classe" variable in the training set), where A refers to accurate methodology and B, C, D, E are inaccurate methodologies. The goal of this project is to use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants in order to predict the manner in which they did the exercise.
